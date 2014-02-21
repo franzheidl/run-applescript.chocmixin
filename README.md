@@ -4,7 +4,7 @@ A mixin for [Chocolat](http://www.chocolatapp.com) to run Applescript files and 
 
 ![run-applescript.chocmixin console screenshot](http://github.com/franzheidl/run-applescript.chocmixin/raw/master/screenshot/run-applescript.png)
 
-This mixin adds the ability to run Applescript inside Chocolat. It adds a menu item `Actions > Applescript > Run Applescript` as well as a corresponding shortcut `alt-cmd-ctrl-r`. The output of the Applescript will be shown in Run-Applescript's output window. The output window will only open if the script actually produces any output.
+This mixin adds the ability to run Applescript inside Chocolat. It adds a menu item `Actions > Applescript > Run Applescript` as well as a corresponding shortcut `alt-cmd-ctrl-r`. The output of the Applescript will be shown in Run-Applescript's output window in re-compilable form. The output window will only open if the script actually produces any output.
 
 With this mixin you can finally use Chocolat's superior text editing functionality for writing Applescript without having to resort to Apple's Script Editor to run or test it.
 
