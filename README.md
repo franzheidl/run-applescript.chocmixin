@@ -1,4 +1,4 @@
-# applescript-runner.chocmixin
+# run-applescript.chocmixin
 
 A mixin for [Chocolat](http://www.chocolatapp.com) to run Applescript files and view their output inside Chocolat.
 
