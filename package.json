@@ -1,0 +1,16 @@
+{
+  "name": "Run Applescript",
+  "version": "1.0.0",
+  "description": "Run Applescripts inside Chocolat and view their output in a console",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franzheidl/applescript-runner.chocmixin.git"
+  },
+  "keywords": [
+    "applescript",
+    "console"
+  ],
+  "author": "Franz Heidl",
+  "license": "MIT"
+}
